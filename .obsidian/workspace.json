@@ -55,12 +55,28 @@
             "id": "6c97333d0216f452",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "595bbb2c1e61580a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyber Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cyber Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +181,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyber Security.md"
+              }
             }
           }
         ]
@@ -183,9 +203,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c97333d0216f452",
+  "active": "595bbb2c1e61580a",
   "lastOpenFiles": [
     "README.md",
+    "Cyber Security.md",
     "Os/Process.md",
     "Netpen/Network Penetration.md",
     "Netpen/Catatan Netpen.md",
