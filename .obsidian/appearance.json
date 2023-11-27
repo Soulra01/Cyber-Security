@@ -1,3 +1,9 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Fira Code",
+  "textFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "style"
+  ]
 }
